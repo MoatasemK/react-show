@@ -10,7 +10,7 @@
     "lib",
     "umd"
   ],
-  "author": "Tanner Linsley <tannerlinsley@gmail.com>",
+  "author": "Muhammad Irfan <irfandev443@gmail.com>",
   "homepage": "https://react-show.js.org",
   "license": "MIT",
   "keywords": [
@@ -26,7 +26,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-tools/react-show.git"
+    "url": "git+https://github.com/irfandevv/react-show"
   },
   "scripts": {
     "build": "nwb build-react-component",
